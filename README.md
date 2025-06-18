@@ -1,5 +1,7 @@
 # FDU-Hidden-Grade-Extracter
 
+## forked from ppolariss/FDU-Hidden-Grade-Extracter
+
 ## Usage
 1. main.py 中填入你的uis和密码
 2. 运行 main.py 即可
